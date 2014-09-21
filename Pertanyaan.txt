@@ -1,0 +1,178 @@
+&Pertanyaan1=1. Jaringan dimana setiap komputer dapat berfungsi sebagai
+     server artinya user komputer yang ada dalam jaringan tersebut
+     dapat menjadi seorang administrator dinamakan jaringan ?&
+&a1=A. Client Server&
+&b1=b. Peer to peer&
+&c1=c. Server&
+&d1=d. Wan&
+&e1=e. Workstation&
+&benar1=b&
+
+&Pertanyaan2=2. Perusahaan yang memproduksi software Photoshop dari 
+    versi 1.0 sampai Photoshop CS3 ?&
+&a2=a. Adobe&
+&b2=b. Microsoft&
+&c2=c. Windows&
+&d2=d. Manchintos&
+&e2=e. Discreet&
+&benar2=a&
+
+&Pertanyaan3=3. Perusahaan yang memproduksi software Macromedia Flash 
+    Profesional 8 saat ini ?&
+&a3=a. Microsoft&
+&b3=b. Macromedia&
+&c3=c. Windows&
+&d3=d. Adobe&
+&e3=e. Discreet&
+&benar3=d&
+
+&Pertanyaan4=4. Komputer dalam sebuah LAN yang bertugas sebagai 
+    peladen untuk melayani komputer yang lain disebut dengan ?&
+&a4=a. Workstation&
+&b4=b. Router&
+&c4=c. Proxy&
+&d4=d. Server&
+&e4=e. Client&
+&benar4=d&
+
+&Pertanyaan5=5. Sumber daya dibawah ini bisa di-shared dalam jaringan 
+    komputer, kecuali ?&
+&a5=a. CD ROM drive&
+&b5=b. Aplikasi&
+&c5=c. Flopy Disk Drive&
+&d5=d. Printer&
+&e5=e. RAM&
+&benar5=b&
+
+&Pertanyaan6=6. Untuk mengetahui IP address sebuah PC yang tersambung
+    ke jaringan menggunakan perintah ?&
+&a6=a. Ipconfig&
+&b6=b. Ping&
+&c6=c. Command&
+&d6=d. Tracert&
+&e6=e. Chkdsk&
+&benar6=a&
+
+&Pertanyaan7=7. Kabel yang dibutuhkan untuk memindahkan file video mentah
+    dari handycam ke PC dinamakan ?&
+&a7=a. USB&
+&b7=b. Firewire&
+&c7=c. UTP&
+&d7=d. String&
+&e7=e. Cross&
+&benar7=b&
+
+&Pertanyaan8=8. Salah satu software keluaran dari Macromedia yang berbasis
+    vektor ialah ?&
+&a8=a. Dreamwever&
+&b8=b. Fireworks&
+&c8=c. Flash&
+&d8=d. Director&
+&e8=e. Freehand&
+&benar8=e&
+
+&Pertanyaan9=9. Salah satu peripheral input ialah ?&
+&a9=a. Printer&
+&b9=b. Monitor&
+&c9=c. Mouse&
+&d9=d. LCD Proyektor&
+&e9=e. Speaker&
+&benar9=c&
+
+&Pertanyaan10=10. Port PS/2 biasanya digunakan untuk peripheral ?&
+&a10=a. Speaker&
+&b10=b. Mouse&
+&c10=c. Monitor&
+&d10=d. LCD Proyektor&
+&e10=e. Printer&
+&benar10=b&
+
+&Pertanyaan11=11. Peripheral output yang menghasilkan hasil cetakan 
+     ialah ?&
+&a11=a. Speaker&
+&b11=b. LCD Proyektor&
+&c11=c. Printer&
+&d11=d. Mouse&
+&e11=e. Monitor&
+&benar11=c&
+
+&Pertanyaan12=12. Berikut ini merupakan format-format file gambar yang
+     sering kita jumpai, kecuali ?&
+&a12=a. JPG&
+&b12=b. BMP&
+&c12=c. RTF&
+&d12=d. TIFF&
+&e12=e. GIF&
+&benar12=c&
+
+&Pertanyaan13=13. Pada sistem operasi Linux, versi yang ditujukan untuk kaum 
+     pemula ialah ?&
+&a13=a. Mandrake&
+&b13=b. Redhat&
+&c13=c. Debian&
+&d13=d. Suse&
+&e13=e. Slackware&
+&benar13=a&
+
+&Pertanyaan14=14. Berikut ini merupakan software yang digunakan untuk proses
+     editing video, kecuali ?&
+&a14=a. Vegas&
+&b14=b. Premiere&
+&c14=c. Ulead&
+&d14=d. Roxio&
+&e14=e. After Effect&
+&benar14=d&
+
+&Pertanyaan15=15. Sistem operasi yang beredar sangat banyak jenisnya, dibawah 
+     ini yang bukan merupakan sistem operasi ialah ?&
+&a15=a. Windows&
+&b15=b. Unix&
+&c15=c. Sun&
+&d15=d. Cobol&
+&e15=e. Linux&
+&benar15=d&
+
+&Pertanyaan16=16. Sekumpulan atau nama kelompok jaringan yang kita gunakan 
+     sering disebut dengan ?&
+&a16=a. Server&
+&b16=b. Peer to peer&
+&c16=c. Workgroup&
+&d16=d. Hub&
+&e16=e. Wireless&
+&benar16=c&
+
+&Pertanyaan17=17. Software ada dua macam yaitu software system dan software aplikasi, 
+     dibawah ini yang merupakan software system ialah ?&
+&a17=a. GIMP&
+&b17=b. MySQL&
+&c17=c. Norton Utility&
+&d17=d. Roxio&
+&e17=e. Star Word&
+&benar17=c&
+
+&Pertanyaan18=18. Fasilitas yang terdapat di internet dimana kita dapat melakukan 
+     diskusi secara elektronik dengn menggunakan e-mail disebut dengan ?&
+&a18=a. FTP&
+&b18=b. E-mail&
+&c18=c. Mailing List&
+&d18=d. Newsgroup&
+&e18=e. Chatting&
+&benar18=c&
+
+&Pertanyaan19=19. Alat yang digunakan untuk membaca dan menulis/menginputkan
+     data pada kartu memori disebut dengan ?&
+&a19=a. Flaskdisk&
+&b19=b. Card Reader&
+&c19=c. Kabel Data&
+&d19=d. USB Modem&
+&e19=e. DVD/RW Drive&
+&benar19=b&
+
+&Pertanyaan20=20. Piranti keras yang digunakan untuk memindai foto dan dokumen ke
+     format digital dan disimpan dalam hard drive disebut dengan ?&
+&a20=a. Digital Camera&
+&b20=b. Handycam&
+&c20=c. Scanner&
+&d20=d. CD-RW Drive&
+&e20=e. Bluetooth&
+&benar20=c&
